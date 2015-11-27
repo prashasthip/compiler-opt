@@ -1,0 +1,6 @@
+A = 	a	+	c
+B = 	a	+	c
+C = 	a	+	c
+c =	10
+D = 	a	+	c
+E = 	D	+	C

@@ -1,0 +1,29 @@
+a =	1	
+b =	1	
+a =	b	
+B = 	b	/	a	
+C = 	B	*	a	
+D = 	a	+	C	
+l =	D	
+E = 	a	+	1	
+a =	E	
+F = 	a	+	1	
+i =	F	
+G = 	i	<=	a	
+H = 	G	 	 	1
+if (H)	goto 2
+goto 3
+I = 	i	+	1	4
+i =	I	
+
+goto 1
+K = 	3	%	4	2
+L = 	2	+	K	
+a =	L	
+M = 	l	+	a	
+l =	M	
+goto 4
+N = 	l	*	a	3
+m =	N	
+O = 	t	+	u	
+r =	O	

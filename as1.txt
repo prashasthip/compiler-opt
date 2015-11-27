@@ -1,0 +1,21 @@
+a =	1	
+b =	1	
+B = 	b	/	a	
+C = 	B	*	a	
+D = 	a	+	C	
+l =	D	
+E = 	a	+	1	
+i =	E	
+F = 	i	>=	a	1
+G = 	F	 	 	
+if (G)	goto 2
+goto 3
+i = 	i	+	1	4
+
+goto 1
+I = 	l	+	a	2
+l =	I	
+goto 4
+J = 	l	*	a	3
+m =	J	
+
